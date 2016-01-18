@@ -27,4 +27,8 @@ Follow these steps :
 - Now, in the Matlab command window, type :
 >> track_video
 
+- The code will ask you to create a polygon by left clicking on the first frame of the video to determine where in the video the algorithm should track the object(s). When you are finished, click right. Outside this area, the algorithm will ignore the information.
+
+- The output will be written to the 'output' subfolder.
+
 
